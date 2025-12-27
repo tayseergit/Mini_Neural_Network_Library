@@ -1,9 +1,9 @@
 import numpy as np
 
-from core.net_init import NeuralNetwork
-from hyperparameter import Hyperparamt
-from trainer import Trainer
-from optimizers.sgd import SGD
+from .core.net_init import NeuralNetwork
+from .hyperparameter import Hyperparamt
+from .trainer import Trainer
+from .optimizers.sgd import SGD
 from sklearn.datasets import fetch_openml
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import OneHotEncoder

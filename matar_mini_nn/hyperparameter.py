@@ -1,6 +1,6 @@
 from itertools import product
-from core.net_init import NeuralNetwork
-from trainer import Trainer
+from .core.net_init import NeuralNetwork
+from .trainer import Trainer
 
 class Hyperparamt:
     def __init__(self, optimizer_class, search_space, input_size, output_size):

@@ -1,11 +1,11 @@
 import numpy as np
 from collections import OrderedDict
-from activations.linear import *
-from layer.affine import *
-from lastlayer.softmaxCE import *
-from layer.dropout import *
-from activations.relu import ReLU
-from activations.sigmoind import Sigmoid
+from ..activations.linear import *
+from ..layer.affine import *
+from ..lastlayer.softmaxCE import *
+from ..layer.dropout import *
+from ..activations.relu import ReLU
+from ..activations.sigmoind import Sigmoid
 
 class NeuralNetwork:
     def __init__(self, input_size, hidden_sizes, output_size, activation='relu', dropout_ratio=0.0):

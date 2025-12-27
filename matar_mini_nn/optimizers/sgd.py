@@ -1,4 +1,4 @@
-from optimizers.optimzer import Optimizer
+from ..optimizers.optimzer import Optimizer
 
 
 class SGD(Optimizer):

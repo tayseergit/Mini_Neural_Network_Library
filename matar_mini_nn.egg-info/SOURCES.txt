@@ -1,5 +1,5 @@
 LICENSE
-README
+README.md
 setup.py
 matar_mini_nn/__init__.py
 matar_mini_nn/hyperparameter.py

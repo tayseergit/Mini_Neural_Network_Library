@@ -12,6 +12,7 @@
 # }
 
 # # Hyperparameter call for get the best parameter for taraining 
+
 # hyper = Hyperparamt(
 #     optimizer_class=SGD,
 #     search_space=parameter_init,

@@ -15,4 +15,3 @@ dist/
 # IDE / editor files
 .vscode/
 .idea/
-setup.py
