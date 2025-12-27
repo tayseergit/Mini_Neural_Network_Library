@@ -1,3 +1,9 @@
+# i make the libray to build the layer from hyperparameter outputs
+# not from choose each layer dependently
+# so you need to init the parameter then ge the best of them tehm tran the net
+# i know that not is the task 
+
+
 # ## Usage
 #  first handle the parameterr you need to use 
 #  for example :
