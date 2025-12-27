@@ -1,3 +1,6 @@
+# to install librabry -> pip install git+https://github.com/tayseergit/Mini_Neural_Network_Library.git
+
+
 # i make the libray to build the layer from hyperparameter outputs
 # not from choose each layer dependently
 # so you need to init the parameter then ge the best of them tehm tran the net
